@@ -1,0 +1,43 @@
+﻿Build started 17/1/2015 6:21:34 μμ.
+     1>Project "C:\Users\fondas\Desktop\project_c++\project_c++\project_c++.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt explorer.cpp fregata.cpp functions.cpp map.cpp pirates.cpp sebek.cpp service_ship.cpp ship.cpp Source.cpp trade_ship.cpp
+         trade_ship.cpp
+         Source.cpp
+     1>c:\users\fondas\desktop\project_c++\project_c++\source.cpp(122): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\source.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+         ship.cpp
+         service_ship.cpp
+     1>c:\users\fondas\desktop\project_c++\project_c++\service_ship.cpp(90): warning C4018: '<' : signed/unsigned mismatch
+         sebek.cpp
+         pirates.cpp
+     1>c:\users\fondas\desktop\project_c++\project_c++\pirates.cpp(75): warning C4018: '<' : signed/unsigned mismatch
+         map.cpp
+         functions.cpp
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(28): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(239): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(368): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\fondas\desktop\project_c++\project_c++\functions.cpp(439): warning C4018: '<' : signed/unsigned mismatch
+         fregata.cpp
+         explorer.cpp
+     1>c:\users\fondas\desktop\project_c++\project_c++\explorer.cpp(80): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\fondas\Desktop\project_c++\Debug\project_c++.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\fondas\Desktop\project_c++\Debug\project_c++.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\fondas\Desktop\project_c++\Debug\project_c++.lib" /MACHINE:X86 Debug\explorer.obj
+         Debug\fregata.obj
+         Debug\functions.obj
+         Debug\map.obj
+         Debug\pirates.obj
+         Debug\sebek.obj
+         Debug\service_ship.obj
+         Debug\ship.obj
+         Debug\Source.obj
+         Debug\trade_ship.obj
+         project_c++.vcxproj -> C:\Users\fondas\Desktop\project_c++\Debug\project_c++.exe
+     1>Done Building Project "C:\Users\fondas\Desktop\project_c++\project_c++\project_c++.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:28.10
